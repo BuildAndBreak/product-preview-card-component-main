@@ -27,11 +27,11 @@ It includes a product image, title, description, price comparison, and an “Add
 
 **Mobile Version**
 
-![Mobile](./Screenshots/) 250px
+![Mobile](./screenshots/iPhone-13-PRO-product-card-bnb.jpg)
 
 **Laptop Version**
 
-![Laptop](./Screenshots/) 650px
+![Laptop](./screenshots/Macbook-Air-product-card-bnb.jpg)
 
 ### Links
 
